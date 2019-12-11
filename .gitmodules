@@ -12,7 +12,7 @@
 [submodule "libraries/fc"]
 	path = libraries/fc
 	url = https://github.com/gameconomy/fc
-	branch = gmy
+	branch = gmy2
 [submodule "libraries/wabt"]
 	path = libraries/wabt
 	url = https://github.com/EOSIO/wabt
